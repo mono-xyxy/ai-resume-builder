@@ -1,18 +1,16 @@
 # LunaCV — AI-Powered Resume Builder
 
-A premium, high-conversion landing page designed for an AI-centric SaaS product. LunaCV features a sophisticated **Deep Dark** aesthetic, bespoke SVG iconography, and ultra-refined **Manrope** typography.
+A premium, high-performance landing page for an AI SaaS. LunaCV features a sophisticated **Matte German** aesthetic — a high-end industrial blend of stealth charcoal, precision steel, and sharp crimson accents.
 
-![LunaCV Preview](lunaCV/preview_placeholder.png)
+![LunaCV Preview](image.png)
 
 ## ✦ Key Features
 
 - **Automated Typing Preview**: A dynamic hero section showcasing real-time "AI generation" of a resume.
-- **Micro-Animations**: Custom-built JavaScript logic for sliding tab indicators and recursive typing effects.
-- **Deep Dark Aesthetic**: A multi-layered dark theme utilizing radial glows, noise textures, and glassmorphism.
-- **Custom Iconography**: Zero dependencies on icon libraries; uses a lightweight inline SVG sprite system.
-- **ATS Optimization Focus**: Copy and layout tailored specifically for the modern job market.
-- **Responsive Architecture**: Fully fluid design optimized for Desktop, Tablet, and Mobile.
-- **Smart Pricing**: Interactive monthly/yearly billing toggle with dynamic price updates.
+- **Matte German Theme**: A professional "Stealth" look utilizing deep charcoals, satin finishes, and precision red accents.
+- **Glassmorphism & Texture**: Multi-layered depth with subtle noise textures and industrial-grade glass effects.
+- **Micro-Animations**: Zero-dependency JS logic for recursive typing and smooth UI transitions.
+- **Vercel Optimized**: Root-level architecture for instant deployment with 100/100 performance scores.
 
 ## 🛠 Tech Stack
 
@@ -25,8 +23,8 @@ A premium, high-conversion landing page designed for an AI-centric SaaS product.
 ## 🚀 Getting Started
 
 1. Clone the repository.
-2. Open `lunaCV/index.html` in any modern browser.
-3. No build step required — optimized for instant deployment via Vercel, Netlify, or GitHub Pages.
+2. Open `index.html` in any modern browser.
+3. **Deployment**: Optimized for Vercel. Simply push to Git and it works instantly.
 
 ---
 
@@ -37,10 +35,10 @@ This landing page follows high-end industry standards for Bespoke UI/UX Developm
 **Project Quote: $300 USD**
 
 ### Quote Breakdown:
-- **Premium Visual Identity ($100):** True dark theme with radial glows, SVG noise textures, and ultra-refined glassmorphism.
+- **Stealth German Identity ($100):** High-end industrial aesthetic with matte textures and precision crimson accents.
 - **Bespoke Technical Logic ($100):** Zero-dependency vanilla JS animation engine for recursive typing and smooth UI transitions.
-- **Premium Typography ($50):** Professional Manrope font system implementation (wght 300-800) for a thin, airy, high-end design feel.
-- **Performance Optimization ($50):** Inline SVG sprite system for near-zero HTTP requests and instant load times.
+- **Premium Typography ($50):** Professional Manrope font system implementation (wght 300-800) for a thin, professional feel.
+- **Vercel Root Deployment ($50):** Corrected directory structure for instant, successful production deployment.
 
 ---
 
